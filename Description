@@ -1,0 +1,9 @@
+Here we stitch images together by
+  Getting key points in each image
+  Get best matches in images
+  Get homography matrix to rotate image to another image
+  rotate image to be in same alignment as the other image
+  put both images in a big image
+  
+ if we want to stitch more than 2 images
+  we stitch 2 of them then the output with the third one and so on.
